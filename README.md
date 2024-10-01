@@ -2,7 +2,7 @@
 Discordからの遠隔アップロード
 
 ## How to Use
-`discord` `.htaccess` `404.html` `index.html` をcloneし、GitHub Pagesを有効化(カスタムドメインは任意)
+`discord` `.gitignore` `.htaccess` `404.html` `index.html` をcloneし、GitHub Pagesを有効化(カスタムドメインは任意)
 ```bash
 npm init -y
 npm i axios discord.js@13
